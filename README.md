@@ -12,3 +12,4 @@ Y luego pueden correrlo así
 npm start
 ```
 
+# MinTicSemanaUno
